@@ -1,5 +1,9 @@
+body {
+  min-height: 100vh;
+}
+
 iframe {
-  height: 90vh;
+  height: 95vh;
 }
 
 .center {
