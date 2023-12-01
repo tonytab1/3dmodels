@@ -1,13 +1,10 @@
 body {
-  min-height: 100vh;
+  min-height: 99vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 iframe {
   height: 95vh;
-}
-
-.center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
