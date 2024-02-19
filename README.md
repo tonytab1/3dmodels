@@ -4,3 +4,4 @@
 - [Deere, the mower of three dimensions](/deere.html)
 - [Walkie_Yale](/walkie_yale.html)
 - [Walkie_Crown](/walkie_crown.html)
+- [Standup Yale](/standup_yale.html)
